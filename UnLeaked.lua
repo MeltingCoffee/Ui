@@ -1710,7 +1710,7 @@ function library:Init(key)
                 return ToggleFunctions
             end
             --
-            function ToogleFunctions:State()
+            function ToggleFunctions:State()
                 return On
             end
             --
